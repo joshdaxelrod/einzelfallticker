@@ -1,0 +1,198 @@
+# Einzelfallticker keyword dictionary
+#
+# One word or phrase per line. Capitals don't matter, and each entry also
+# matches longer words that start with it: "Syria" catches "Syrian" and "Syrians".
+# Lines starting with # are notes and get skipped.
+#
+# This is the final list. To add a word, put it on
+# its own line and rerun step 5.
+
+# --- Nationalities, countries and regions
+Albania
+Bosnia
+Bulgaria
+Croatia
+Kosovo
+Kosovar
+Macedonia
+Moldova
+Montenegro
+Poland
+Romania
+Russia
+Serbia
+Turkey
+Ukraine
+Ukrainian
+Afghan
+Algeria
+Egypt
+Iran
+Iraq
+Jordan
+Kurd
+Lebanon
+Turkish
+Lebanese
+Libya
+Morocco
+moroccan
+Palestin
+Syria
+Tunisia
+Yemen
+Angola
+Cameroon
+Congo
+Eritrea
+Ethiopia
+Gambia
+Ghana
+Ivory Coast
+Kenya
+Mali
+Nigeria
+Senegal
+Somali
+South Sudan
+Sudan
+Togo
+Uganda
+Bangladesh
+India
+Kazakh
+Kyrgyz
+Nepal
+Pakistan
+Tajik
+Turkmen
+Uzbek
+China
+Southeast European
+Philippines
+Indonesia
+Mongolia
+Thai
+Vietnam
+Brazil
+Colombia
+Cuba
+Mexico
+Peru
+Venezuela
+Belarus
+Georgia
+Armenia
+Azerbaijan
+Saudi Arabia
+UAE
+Oman
+Qatar
+Bahrain
+Burkina Faso
+irish
+Chad
+Guinea
+Madagascar
+Mauritania
+Mozambique
+Rwanda
+South Africa
+Zambia
+Zimbabwe
+Sri Lanka
+Bhutan
+Maldives
+Myanmar
+Cambodia
+Laos
+South Korea
+Argentina
+Chile
+Ecuador
+Haiti
+Dominican Republic
+Chechnya
+Rohingya
+Balkan
+Middle East
+African
+Asian
+Roma
+Turkic
+Eastern European
+Pole
+Polish
+Swiss
+Mediterranean
+Latvia
+Latvian
+Spanish
+Argentine
+Hungarian
+Hungary
+Portuguese
+French
+Italian
+Lithuanian
+turk
+
+# --- Migration and residence status, and language
+Deportation
+Deport
+Visa
+Passport
+Border
+Abroad
+Foreign
+Overseas
+Documentation
+Unauthorized entry
+Refugee
+Asylum
+Asylee
+Migrant
+Migration
+Immigration
+Immigrant
+Foreigner
+initial reception center
+Stateless
+Residency
+Naturalization
+Naturalized
+Naturalizing
+Expulsion
+Expelled
+Expelling
+permanent residence
+Permanent address
+Broken English
+poor English
+does not speak English
+did not speak German
+cannot speak German
+does not speak German
+spoke bad German
+broken German
+
+# --- Appearance and other descriptors (including euphemisms police use)
+National
+Nationality
+Nationalities
+Arab
+Arabic
+Accent
+Darker
+Dark skin
+Dark-skinned
+Southern
+Southerner
+Complexion
+Phenotype
+Ethnic
+Racial
+Black skin
+Black beard
+Dark beard
+Dark mustache
