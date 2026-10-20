@@ -52,10 +52,10 @@ match because it gives the AfD some basis for the pin.
 I found the map through an AfD Facebook ad from June 2024 that was viewed
 nearly a million times
 ([Meta Ad Library](https://www.facebook.com/ads/library/?id=459185823423059)).
-Hat tip to Bellingcat, whose
-[guide to tracking election ad spending on Facebook and Instagram](https://www.bellingcat.com/resources/2024/11/04/us-presidential-election-trump-harris-meta-ads/)
-gave me the idea to look through the party's ads, and for its commitment to
-open-sourcing its methods.
+The idea to look through the party's ads came from Bellingcat's
+[guide to tracking election ad spending on Facebook and Instagram](https://www.bellingcat.com/resources/2024/11/04/us-presidential-election-trump-harris-meta-ads/).
+Hat tip to Bellingcat for that, and for its commitment to open-sourcing its
+methods.
 
 ### 1. Getting the pins
 
@@ -140,8 +140,9 @@ cases from no match to match.
 
 ## Using this elsewhere
 
-- Meta's Ad Library is a good way to find what a party is promoting.
-  Search a page's ads and follow the links.
+- Meta's [Ad Library](https://www.facebook.com/ads/library/) is a good way
+  to find what a party is promoting. Search a page's ads and follow the
+  links.
 - Many web maps embed their full dataset in the page the way this one did.
   Searching the page source for `lat` or `lng` is a quick way to check.
 - The keyword search will work on any collection of police releases. Edit
