@@ -9,6 +9,10 @@ releases. In 450 of the 1,025 cases backed by a police release (44%), the
 release says nothing about the suspect's nationality, migration status or
 appearance.
 
+I followed up with a check of MesserHauptstadt, a knife-crime map the AfD
+launched in Berlin in April 2026 ([story](https://www.heistberlin.com/messerhauptstadt-knife-map-afd-election-fear/),
+[repo](https://github.com/joshdaxelrod/messerhauptstadt)).
+
 This repo has the data and code behind the analysis.
 
 - Story: [The far-right lies to you about migrant crime, again](https://europeancorrespondent.com/en/r/the-farright-lies-to-you-about-migrant-crime-again), *The European Correspondent*, 7 May 2026
@@ -152,4 +156,4 @@ cases from no match to match.
 
 ---
 
-By [Josh Axelrod](https://josh-axelrod.com). Code is under the [MIT License](LICENSE). The data is public domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+By [Josh Axelrod](https://josh-axelrod.com). Code is under the [MIT License](LICENSE). My coding of the data is public domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
